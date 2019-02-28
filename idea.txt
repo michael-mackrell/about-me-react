@@ -1,0 +1,4 @@
+have a scrolling view with some sort of fast link goto navigation on the main page
+
+
+about me has three vertical sections. each one with a picture on top then corresponding text underneatrh

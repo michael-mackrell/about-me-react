@@ -1,11 +1,20 @@
-import { React } from "react";
+import React from "react";
 import { ReactDOM } from "react-dom"
+import './App.scss';
 
 
-export const WelcomeSlide = () => {
+const WelcomeSlide = () => {
 
-    return(
-            <p>hello and welcome</p>
-        );
+    return (
+        <div className="slideOne">
+            <p className="name-heading">Hi,</p>
+            <h1 className="name-heading">I'm Michael Mackrell</h1>
+        </div>
+        
+    ); 
     
-};
+    
+    
+}
+
+export default WelcomeSlide;
